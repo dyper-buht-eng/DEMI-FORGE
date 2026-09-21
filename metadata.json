@@ -1,0 +1,6 @@
+{
+  "name": "Demi Forge",
+  "description": "A professional tabletop and 3D creation platform for designing cards, tactical battlemaps, 3D miniatures, and interconnected campaigns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
